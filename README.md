@@ -83,7 +83,9 @@ Bug reports and ideas are welcome in [Issues](https://github.com/CimTS/worktimel
 
 ## Support
 
-If it saves you a few glances at the clock and you'd like to say thanks, you can [buy me a coffee on Ko-fi](https://ko-fi.com/nathonlo). Totally optional.
+If it saves you a few glances at the clock and you'd like to say thanks, you can buy me a coffee on Ko-fi. Totally optional.
+
+[![Fuel the countdown: buy me a coffee on Ko-fi](https://img.shields.io/badge/Fuel_the_countdown-Buy_me_a_coffee-72A5F2?style=for-the-badge&logo=kofi&logoColor=white&labelColor=202020)](https://ko-fi.com/J0Q728QLHG)
 
 ## License
 
